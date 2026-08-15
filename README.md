@@ -12,7 +12,7 @@
 
 ## デモ
 
-[🌐 https://flipslidersand.github.io/food-simulator](https://flipslidersand.github.io/food-simulator)
+[🌐 https://flipslidersand-labs.github.io/food-simulator](https://flipslidersand-labs.github.io/food-simulator)
 
 ## 使い方
 
