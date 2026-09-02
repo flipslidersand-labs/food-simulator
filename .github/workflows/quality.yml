@@ -13,3 +13,5 @@ jobs:
       node-version: "20"
       package-manager: "npm"
       test-script: "test"
+      # テストファイル未整備のため lint/build ゲートのみ
+      run-test: false
